@@ -58,7 +58,7 @@ class MyHomePage extends StatelessWidget {
                       ),
                       textAlign: TextAlign.center,
                     ),
-                    SizedBox(height: 16),
+                    SizedBox(height: 8),
                     Text(
                       'OUR GLOBAL DELEGATION OF LEADERS ADVOCATE FOR INNOVATIVE POLICY WHILE EMBARKING ON DIPLOMATIC MISSIONS TO DEPLOY ENERGY AND TECHNOLOGY INFRASTRUCTURE IN DEVELOPING NATIONS',
                       style: TextStyle(
@@ -67,7 +67,7 @@ class MyHomePage extends StatelessWidget {
                       ),
                       textAlign: TextAlign.center,
                     ),
-                    SizedBox(height: 80),
+                    SizedBox(height: 40),
                     Padding(
                       padding: const EdgeInsets.all(16.0),
                       child: TextField(
@@ -95,7 +95,7 @@ class MyHomePage extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(height: 160),
+                    SizedBox(height: 80),
                     Text(
                       'Copyright © 2023 Emergence All rights reserved.',
                       style: TextStyle(
