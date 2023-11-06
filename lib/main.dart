@@ -91,7 +91,7 @@ class MyHomePage extends StatelessWidget {
                         'STAY INFORMED',
                         style: TextStyle(
                           color: Colors.black,
-                          fontSize: 24.0,
+                          fontSize: 18.0,
                         ),
                       ),
                     ),
