@@ -47,14 +47,14 @@ class MyHomePage extends StatelessWidget {
             children: [
               Image.asset('assets/emergence.png', width: 600, height: 200),
               Padding(
-                padding: const EdgeInsets.all(16.0), // Padding for all views
+                padding: const EdgeInsets.all(8.0), // Padding for all views
                 child: Column(
                   children: [
                     Text(
                       'SUPPORTING DEVELOPING NATIONS THROUGH TECHNOLOGY, ECONOMICS, AND DIPLOMACY',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 24.0,
+                        fontSize: 18.0,
                       ),
                       textAlign: TextAlign.center,
                     ),
@@ -63,7 +63,7 @@ class MyHomePage extends StatelessWidget {
                       'OUR GLOBAL DELEGATION OF LEADERS ADVOCATE FOR INNOVATIVE POLICY WHILE EMBARKING ON DIPLOMATIC MISSIONS TO DEPLOY ENERGY AND TECHNOLOGY INFRASTRUCTURE IN DEVELOPING NATIONS',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 18.0,
+                        fontSize: 12.0,
                       ),
                       textAlign: TextAlign.center,
                     ),
